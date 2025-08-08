@@ -40,7 +40,7 @@ Included:
 
 | Action                   | Keybind             |
 | ------------------------ | ------------------- |
-| Prefix key               | `Ctrl + a`          |
+| Prefix key               | `Ctrl + b`          |
 | Reload config            | `Prefix + r`        |
 | New session              | `Prefix + s`        |
 | Detach from session      | `Prefix + d`        |
